@@ -1,0 +1,5 @@
+class7-09.26.25
+
+Topic: Command line, File management and GitHub
+
+Goal for today: Upload sample file from computer to GitHub repository, use Git Bash in windows.
